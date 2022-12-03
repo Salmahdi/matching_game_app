@@ -1,16 +1,5 @@
-# matching_game
+Simple Matching Game built with Flutter and Dart..
 
-A new Flutter project.
+![Library-Management-Software-Buyer-Guide](https://user-images.githubusercontent.com/84217620/205456035-266f7b28-a284-4072-9010-8bab659d8da4.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+by clicking on one of each these balls the game will statrt and the balls will change randomly . You win when you get same two balls
